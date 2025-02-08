@@ -1,0 +1,83 @@
+body
+{
+background-color: #e9ecef;
+min-height: 100vh;
+position: relative;
+margin: 0;
+}
+
+div.jumbotron
+{
+    text-align: center;
+}
+
+hgroup>p
+{
+    color: rgb(170, 102, 237);
+    font-size: 20px;
+}
+
+hgroup>ul
+{
+    list-style-position: inside;
+}
+
+h1.card-title
+{
+    text-align: center;
+    color: rgb(231, 11, 117);
+}
+
+h4
+{
+    color: rgb(236, 77, 209);
+}
+
+div.card
+{
+    background-color: #e9ecef;
+    width: 18rem;
+}
+.border-none
+{
+    margin-top: 50px ;
+    border: none !important;    
+}
+
+h5.card-title
+{
+    color: rgb(237, 37, 237);
+}
+
+span
+{
+    background-color: gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: white;
+    padding: 0px 10px;
+}
+
+#hakkimizda:hover
+{
+    color: white !important;
+}
+
+
+#urun:hover
+{
+    color: white !important; 
+}
+
+footer
+{
+    text-align: center;    
+    background-color: #dae2e9;
+    color: #808080;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+    height: 25px;
+    
+}
